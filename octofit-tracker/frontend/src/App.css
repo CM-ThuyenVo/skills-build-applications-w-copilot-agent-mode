@@ -1,0 +1,61 @@
+/* App.css for Octofit Tracker */
+body {
+  background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+  color: #2c3e50;
+}
+
+.navbar {
+  background: linear-gradient(90deg, #007bff 0%, #00c6ff 100%);
+}
+
+.navbar-brand, .nav-link {
+  color: #fff !important;
+  font-weight: 600;
+}
+
+.navbar-brand img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.table {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+
+.table-dark th {
+  background-color: #007bff !important;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #00c6ff;
+  border-color: #007bff;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+h1, h2, h3, h4 {
+  color: #007bff;
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,123,255,0.1);
+}
+
+a {
+  color: #00c6ff;
+}
+a:hover {
+  color: #007bff;
+}
+
+.favicon {
+  width: 32px;
+  height: 32px;
+}
